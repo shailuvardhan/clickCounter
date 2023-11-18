@@ -1,0 +1,38 @@
+.bg-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-container {
+  text-align: center;
+  font-family: 'Roboto';
+}
+
+.title {
+  color: #2d3a35;
+  font-size: 40px;
+}
+
+.count {
+  color: #c20a72;
+}
+
+.para {
+  font-size: 15px;
+}
+
+.btn {
+  background-color: #007bff;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  border-width: 0;
+  border-radius: 7px;
+  font-size: 18px;
+  padding: 10px;
+}
